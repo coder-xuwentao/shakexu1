@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### My name's xuwentao. I'm a web developer.Welcome to my github!
+### My name's xuwentao. 
+
+### I'm a web developer.Welcome to my github!😄
 
 <!--
 **shakexu1/shakexu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
