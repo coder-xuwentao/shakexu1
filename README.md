@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Comrade !👋
 
 ### My name's xuwentao,a web developer.Welcome to my github!😄
 
